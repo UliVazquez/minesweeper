@@ -16,7 +16,7 @@ Este es un juego de Buscaminas desarrollado en Python utilizando la biblioteca T
 2. Clona este repositorio o descarga el archivo.
 3. Ejecuta el siguiente comando en la terminal:
    ```sh
-   python minesweeper.py
+   python main.py
    ```
 
 ## Controles
